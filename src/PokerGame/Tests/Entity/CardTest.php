@@ -63,7 +63,7 @@ class CardTest extends \PHPUnit_Framework_TestCase
     /**
      * @test
      */
-    public function __toString()
+    public function toString()
     {
         $card = new Card('spades', 'seven');
 

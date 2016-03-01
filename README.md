@@ -1,5 +1,7 @@
 # Simple Poker Game
 
+[![Build Status](https://travis-ci.org/carlcasbolt/simple-poker-game.svg)](https://travis-ci.org/carlcasbolt/simple-poker-game) [![Coverage Status](https://coveralls.io/repos/github/carlcasbolt/simple-poker-game/badge.svg)](https://coveralls.io/github/carlcasbolt/simple-poker-game)
+
 ## Requirements:
  - PHP 5.6.x
  - Composer
