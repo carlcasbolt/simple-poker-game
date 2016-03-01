@@ -68,7 +68,7 @@ class PlayerTest extends \PHPUnit_Framework_TestCase
     /**
      * @test
      */
-    public function __toString()
+    public function toString()
     {
         $player = new Player();
         $player->setName('Sam');
